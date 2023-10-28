@@ -41,7 +41,7 @@ scipy==1.7.3
 six==1.16.0
 sklearn==0.0.post7
 sklearn-features==0.0.2
-threadpoolctl==3.2.0
+threadpoolctl==3.1.0
 tqdm==4.66.1
 travertino==0.2.0
 tzdata==2023.3
