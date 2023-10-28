@@ -13,7 +13,7 @@ docutils==0.20.1
 Eel==0.16.0
 Flask==2.2.5
 future==0.18.3
-gevent==23.7.0
+gevent==22.10.2
 gevent-websocket==0.10.1
 greenlet==2.0.2
 idna==3.4
