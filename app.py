@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request
 import joblib
 import re
-import nltk
+# import nltk
 from nltk.tokenize import word_tokenize
 from sklearn.feature_extraction.text import TfidfVectorizer
 
