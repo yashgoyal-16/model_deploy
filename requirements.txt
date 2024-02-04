@@ -3,4 +3,3 @@ joblib==1.3.2
 nltk==3.8.1
 # re == latest
 scikit-learn==1.4.0
-gunicorn==20.2.0
